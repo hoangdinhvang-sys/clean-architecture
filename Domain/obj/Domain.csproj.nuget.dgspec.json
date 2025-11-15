@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CleanCQRSMediator\\Domain\\Domain.csproj": {}
+    "D:\\New folder (2)\\clean-architecture\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\CleanCQRSMediator\\Domain\\Domain.csproj": {
+    "D:\\New folder (2)\\clean-architecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CleanCQRSMediator\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\New folder (2)\\clean-architecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\CleanCQRSMediator\\Domain\\Domain.csproj",
+        "projectPath": "D:\\New folder (2)\\clean-architecture\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\realv\\.nuget\\packages\\",
-        "outputPath": "D:\\CleanCQRSMediator\\Domain\\obj\\",
+        "outputPath": "D:\\New folder (2)\\clean-architecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

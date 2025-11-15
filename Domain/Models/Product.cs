@@ -13,6 +13,8 @@ namespace Domain.Models
         public decimal Price { get; set; }
         public Product(string name, decimal price)
         {
+            // business rule here
+
             Name = name;
             Price = price;
         }

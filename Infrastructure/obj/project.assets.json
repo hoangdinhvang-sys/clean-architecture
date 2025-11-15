@@ -2597,11 +2597,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CleanCQRSMediator\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\New folder (2)\\clean-architecture\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\CleanCQRSMediator\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\New folder (2)\\clean-architecture\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\realv\\.nuget\\packages\\",
-      "outputPath": "D:\\CleanCQRSMediator\\Infrastructure\\obj\\",
+      "outputPath": "D:\\New folder (2)\\clean-architecture\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2622,8 +2622,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CleanCQRSMediator\\Application\\Application.csproj": {
-              "projectPath": "D:\\CleanCQRSMediator\\Application\\Application.csproj"
+            "D:\\New folder (2)\\clean-architecture\\Application\\Application.csproj": {
+              "projectPath": "D:\\New folder (2)\\clean-architecture\\Application\\Application.csproj"
             }
           }
         }
